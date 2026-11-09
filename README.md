@@ -9,6 +9,8 @@
 
 Engineered for the Google **#BuildHybridAI 2026** Challenge ($30,000 Prize Pool) on Devpost.
 
+![Hybrid AI Router Architecture](assets/hybrid-ai-router-banner.svg)
+
 ---
 
 ## 1. The Problem in AI Inference
