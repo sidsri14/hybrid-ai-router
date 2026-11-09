@@ -1,0 +1,29 @@
+{
+  "name": "hybrid-ai-router",
+  "version": "1.0.0",
+  "description": "Intelligent Hybrid AI Inference Router blending on-device models with cloud LLMs for zero-cost routing, offline resilience, and latency optimization.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "hybrid-ai",
+    "on-device-ai",
+    "edge-ai",
+    "gemini",
+    "firebase-ai",
+    "llm-router",
+    "local-models",
+    "cost-optimization"
+  ],
+  "author": "Siddharth Srivastava <sidsri1502@gmail.com> (https://github.com/sidsri14)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "typescript": "^5.5.2",
+    "vitest": "^1.6.0"
+  }
+}
