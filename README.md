@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![TypeScript: 5.5+](https://img.shields.io/badge/TypeScript-5.5+-blue.svg)](https://www.typescriptlang.org/)
 [![Tests: 11/11 Passing](https://img.shields.io/badge/tests-11%2F11%20passing-brightgreen.svg)](test/)
+[![Commercial Edition: $49](https://img.shields.io/badge/Commercial%20Kit-%2449%20Instant%20Access-success.svg)](https://buy.polar.sh/polar_cl_aChnKOBlSuTr0gEWTc1tZdxEFtcx3EuRWja9l4R1qiW)
 [![Challenge: #BuildHybridAI 2026](https://img.shields.io/badge/Hackathon-%23BuildHybridAI%202026-orange.svg)](https://devpost.com)
 
 **Intelligent Hybrid Inference Router blending on-device models with cloud LLMs for zero-cost routing, offline resilience, and latency optimization.**
@@ -135,7 +136,21 @@ Test suite output:
 
 ---
 
-## 6. Author & Hackathon Alignment
+## 6. Commercial Edition & Production Licensing ($49 USD)
+
+Looking to integrate hybrid on-device / cloud routing into a commercial SaaS, mobile app (React Native / Flutter), or client project?
+
+[**Purchase the Hybrid AI Router Commercial Starter Kit on Polar ($49 USD)**](https://buy.polar.sh/polar_cl_aChnKOBlSuTr0gEWTc1tZdxEFtcx3EuRWja9l4R1qiW)
+
+* **What's included in the Commercial Kit**:
+  - Full TypeScript 5.5+ source code for on-device adapters (Gemma 2B, SmolLM, WebGPU) and cloud bridges (Google Gemini, OpenAI).
+  - Production benchmarking suite simulating 100k queries demonstrating 68.4% cost reductions.
+  - Automated 11-test Vitest regression suite.
+  - Commercial Developer License granting perpetual rights to deploy in closed-source proprietary software with zero attribution required.
+
+---
+
+## 7. Author & Hackathon Alignment
 
 * **Author**: Siddharth Srivastava ([@sidsri14](https://github.com/sidsri14))
 * **Contact**: `sidsri1502@gmail.com` | **PayPal Payout**: `sidsri1302@gmail.com`
