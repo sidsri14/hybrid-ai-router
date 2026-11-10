@@ -130,4 +130,5 @@ In benchmark simulations of 100,000 conversational user queries:
 The complete project is open source and tested (11/11 tests passing):
 
 👉 **GitHub**: [`https://github.com/sidsri14/hybrid-ai-router`](https://github.com/sidsri14/hybrid-ai-router)  
+👉 **Commercial Starter Kit ($49)**: [Instant Checkout on Polar](https://buy.polar.sh/polar_cl_aChnKOBlSuTr0gEWTc1tZdxEFtcx3EuRWja9l4R1qiW)  
 Built for the **Google #BuildHybridAI 2026** challenge on Devpost.
