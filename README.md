@@ -154,4 +154,6 @@ Looking to integrate hybrid on-device / cloud routing into a commercial SaaS, mo
 
 * **Author**: Siddharth Srivastava ([@sidsri14](https://github.com/sidsri14))
 * **Contact**: `sidsri1502@gmail.com` | **PayPal Payout**: `sidsri1302@gmail.com`
+* **Portfolio & Technical Case Studies**: [sidsri14.github.io](https://sidsri14.github.io/)
+* **Contract Engineering ($60/hr)**: [Upwork Profile](https://www.upwork.com/freelancers/~01f93f1a56b9ef1b8d)
 * **Target Hackathon**: [#BuildHybridAI 2026](https://devpost.com) ($30,000 Devpost Challenge, Nov 9 – Nov 30, 2026)
