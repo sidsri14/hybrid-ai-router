@@ -5,6 +5,7 @@
 [![Tests: 11/11 Passing](https://img.shields.io/badge/tests-11%2F11%20passing-brightgreen.svg)](test/)
 [![Commercial Edition: $49](https://img.shields.io/badge/Commercial%20Kit-%2449%20Instant%20Access-success.svg)](https://buy.polar.sh/polar_cl_aChnKOBlSuTr0gEWTc1tZdxEFtcx3EuRWja9l4R1qiW)
 [![Challenge: #BuildHybridAI 2026](https://img.shields.io/badge/Hackathon-%23BuildHybridAI%202026-orange.svg)](https://devpost.com)
+[![DriftGuard CI Guard](https://img.shields.io/badge/DriftGuard-CI%20Guard%20Passed-blue)](https://github.com/marketplace/actions/driftguard-ci-guard)
 
 **Intelligent Hybrid Inference Router blending on-device models with cloud LLMs for zero-cost routing, offline resilience, and latency optimization.**
 
