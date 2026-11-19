@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:20,983
+Welcome to Hybrid AI Router, built for the Build Hybrid AI 2026 Hackathon hosted by Google and Firebase AI Logic. Today, developers face skyrocketing cloud LLM bills and high latency. Hybrid AI Router solves this by routing routine queries to zero-cost on-device models, while escalating complex reasoning to Gemini in the cloud.
+
+2
+00:00:21,583 --> 00:00:39,091
+The core of the router is a sub-millisecond semantic classifier. It analyzes incoming prompt token length, taxonomy, and privacy indicators. Routine queries and sensitive data containing personal identifiers are resolved on-device with sub-thirty millisecond latency and zero API cost.
+
+3
+00:00:39,691 --> 00:00:54,389
+When a task demands deep cognitive reasoning, mathematical proofs, or multi-step architectural planning, Hybrid AI Router dynamically escalates the request to Google Gemini 1.5, returning streaming results without requiring client application changes.
+
+4
+00:00:54,989 --> 00:01:12,794
+Hybrid AI Router guarantees resilience with bidirectional circuit breakers. If a local model encounters memory constraints, it escalates to cloud Gemini. If network connectivity drops or cloud APIs hit rate limits, execution gracefully recovers on-device, preventing application crashes.
+
+5
+00:01:13,394 --> 00:01:25,417
+In production benchmarks, Hybrid AI Router resolves over seventy percent of queries on-device, cutting monthly LLM operational expenses by up to seventy percent while accelerating median user response times.
+
+6
+00:01:26,017 --> 00:01:40,943
+The router is built in strict TypeScript and verified by eleven passing Vitest tests covering edge routing, metrics telemetry, and circuit breaker fallbacks. The project is open source on GitHub at github dot com slash sidsri fourteen slash hybrid ai router.
