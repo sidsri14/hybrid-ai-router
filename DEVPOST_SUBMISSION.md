@@ -3,6 +3,7 @@
 **Target Challenge:** [#BuildHybridAI 2026](https://devpost.com) ($30,000 Cash Prize Pool / $10,000 Grand Prize)  
 **Host:** Google & Firebase AI Logic  
 **Dates:** November 9 – November 30, 2026  
+**Live Interactive Playground:** [`https://sidsri14.github.io/hybrid-ai-router/`](https://sidsri14.github.io/hybrid-ai-router/)  
 **Repository:** [`https://github.com/sidsri14/hybrid-ai-router`](https://github.com/sidsri14/hybrid-ai-router)  
 **Author:** Siddharth Srivastava ([@sidsri14](https://github.com/sidsri14))  
 **Email:** `sidsri1502@gmail.com` | **PayPal Payout:** `sidsri1302@gmail.com`  

@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![TypeScript: 5.5+](https://img.shields.io/badge/TypeScript-5.5+-blue.svg)](https://www.typescriptlang.org/)
 [![Tests: 11/11 Passing](https://img.shields.io/badge/tests-11%2F11%20passing-brightgreen.svg)](test/)
+[![Live Web Demo](https://img.shields.io/badge/Live%20Demo-Interactive%20Playground-blueviolet)](https://sidsri14.github.io/hybrid-ai-router/)
 [![Commercial Edition: $49](https://img.shields.io/badge/Commercial%20Kit-%2449%20Instant%20Access-success.svg)](https://buy.polar.sh/polar_cl_aChnKOBlSuTr0gEWTc1tZdxEFtcx3EuRWja9l4R1qiW)
 [![Challenge: #BuildHybridAI 2026](https://img.shields.io/badge/Hackathon-%23BuildHybridAI%202026-orange.svg)](https://devpost.com)
 [![DriftGuard CI Guard](https://img.shields.io/badge/DriftGuard-CI%20Guard%20Passed-blue)](https://github.com/marketplace/actions/driftguard-ci-guard)
